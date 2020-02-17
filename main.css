@@ -30,7 +30,7 @@ body {
     height: 851px;
     width: 961px;
     margin: 50px auto 20px auto;
-    animation: zmianaTla 5s ease-in-out 1;
+/*     animation: zmianaTla 5s ease-in-out 1; */
 }
 
 a {
